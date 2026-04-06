@@ -1,4 +1,4 @@
-# Hi there, I'm Milzan Malik Fitriana 👋
+# Hi there, I'm Milzan Malik 👋
 
 ### .NET Architect | Fullstack Developer | Technical Artist
 
